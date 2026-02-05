@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/self-host-link?style=for-the-badge&color=6366f1)
-![GitHub Issues](https://img.shields.io/github/issues/yourusername/self-host-link?style=for-the-badge&color=8b5cf6)
-![GitHub License](https://img.shields.io/github/license/yourusername/self-host-link?style=for-the-badge&color=6366f1)
-![GitHub Actions Workflow Status](https://img.shields.io/github/check-runs/yourusername/self-host-link/main?style=for-the-badge&label=CI%20CHECKS)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/bradmca/self-host-link?style=for-the-badge&color=6366f1)
+![GitHub Issues](https://img.shields.io/github/issues/bradmca/self-host-link?style=for-the-badge&color=8b5cf6)
+![GitHub License](https://img.shields.io/github/license/bradmca/self-host-link?style=for-the-badge&color=6366f1)
+![GitHub Actions Workflow Status](https://img.shields.io/github/check-runs/bradmca/self-host-link/main?style=for-the-badge&label=CI%20CHECKS)
 
 **A minimalist, highly customizable personal landing page for your social links.**
 Built with **Next.js 15**, **Tailwind CSS**, and **TypeScript**.
@@ -53,7 +53,7 @@ Traditional link-in-bio services often charge for basic features or limit your c
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/self-host-link.git
+git clone https://github.com/bradmca/self-host-link.git
 cd self-host-link
 ```
 
@@ -94,7 +94,7 @@ npm run dev
 ## 🚀 Deployment
 
 ### ⚡ One-Click Vercel (Recommended)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyourusername%2Fself-host-link)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbradmca%2Fself-host-link)
 
 ### ☁️ Manual Deployment
 1. Connect your GitHub repository to **Vercel** or **Netlify**.
@@ -129,6 +129,6 @@ We maintain high professional standards to ensure a great experience for everyon
 ---
 
 <div align="center">
-  <p>Created with ✨ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Created with ✨ by <a href="https://github.com/bradmca">bradmca</a></p>
   <p>Professional Grade Open Source Components</p>
 </div>
