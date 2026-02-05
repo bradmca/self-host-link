@@ -86,12 +86,4 @@ Deploy to the cloud in seconds. No server maintenance required.
 | **Community** | Established Code of Conduct & Contributing guidelines |
 
 ---
-
-<div align="center">
-  <p>Crafted with precision by <a href="https://github.com/bradmca">bradmca</a></p>
-  <p>
-    <a href="./CONTRIBUTING.md">Contribute</a> • 
-    <a href="./SECURITY.md">Security</a> • 
-    <a href="./CODE_OF_CONDUCT.md">Community</a>
-  </p>
-</div>
+⭐ If this project helps you, please give it a star!
