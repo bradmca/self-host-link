@@ -1,0 +1,56 @@
+{
+  "name": "Your Name",
+  "bio": "Creator • Developer • Designer",
+  "avatar": "",
+  "theme": {
+    "mode": "system",
+    "primaryColor": "#6366f1",
+    "accentColor": "#8b5cf6",
+    "gradientStart": "#1e1b4b",
+    "gradientEnd": "#0f172a"
+  },
+  "social": {
+    "twitter": "",
+    "github": "",
+    "linkedin": "",
+    "instagram": "",
+    "youtube": "",
+    "email": ""
+  },
+  "links": [
+    {
+      "title": "My Website",
+      "url": "https://example.com",
+      "icon": "globe",
+      "description": "Check out my portfolio"
+    },
+    {
+      "title": "Latest Project",
+      "url": "https://github.com",
+      "icon": "code",
+      "description": "My open source work"
+    },
+    {
+      "title": "Newsletter",
+      "url": "https://newsletter.example.com",
+      "icon": "mail",
+      "description": "Subscribe for updates"
+    },
+    {
+      "title": "Support My Work",
+      "url": "https://buymeacoffee.com",
+      "icon": "coffee",
+      "description": "Buy me a coffee"
+    }
+  ],
+  "seo": {
+    "title": "Your Name - Links",
+    "description": "All my important links in one place",
+    "keywords": ["links", "social", "portfolio"],
+    "ogImage": "/og-image.png"
+  },
+  "analytics": {
+    "googleAnalyticsId": "",
+    "plausibleDomain": ""
+  }
+}
